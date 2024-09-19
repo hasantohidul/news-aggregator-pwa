@@ -1,8 +1,8 @@
 import React from "react";
 
 const Header = () => (
-    <header>
-        <h1>News Aggregator</h1>
+    <header className="bg-blue-600 p-4">
+        <h1 className="text-white text-2xl font-bold">News Aggregator</h1>
     </header>
 );
 
