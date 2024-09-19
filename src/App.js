@@ -21,7 +21,7 @@ function App() {
       <Header />
       <div className="p-4">
         <button
-          className="mb-4 px-4 py-2 bg-gray-300 dark:bg-gray-700 rounded-lg"
+          className="mb-4 px-4 py-2 bg-gray-300 dark:bg-gray-700 dark:text-white rounded-lg"
           onClick={toggleDarkMode}
         >
           Toggle Dark Mode
